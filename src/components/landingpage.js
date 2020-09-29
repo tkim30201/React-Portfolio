@@ -23,7 +23,7 @@ class Landing extends Component {
                         </a>
 
                         <a href="https://github.com/tkim30201" rel="noopener noreferrer" target="_blank">
-                            <i className="fa fa-fa-github-square" aria-hidden="true" />
+                            <i className="fa fa-github-square" aria-hidden="true" />
                         </a>
                     </div>
                 </div>
